@@ -1,0 +1,14 @@
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\bin\Debug\net8.0\BibliotecaSistema.exe
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\bin\Debug\net8.0\BibliotecaSistema.deps.json
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\bin\Debug\net8.0\BibliotecaSistema.runtimeconfig.json
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\bin\Debug\net8.0\BibliotecaSistema.dll
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\bin\Debug\net8.0\BibliotecaSistema.pdb
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\obj\Debug\net8.0\BibliotecaSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\obj\Debug\net8.0\BibliotecaSistema.AssemblyInfoInputs.cache
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\obj\Debug\net8.0\BibliotecaSistema.AssemblyInfo.cs
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\obj\Debug\net8.0\BibliotecaSistema.csproj.CoreCompileInputs.cache
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\obj\Debug\net8.0\BibliotecaSistema.dll
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\obj\Debug\net8.0\refint\BibliotecaSistema.dll
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\obj\Debug\net8.0\BibliotecaSistema.pdb
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\obj\Debug\net8.0\BibliotecaSistema.genruntimeconfig.cache
+C:\Users\Raul_\Desktop\SPI\DIO\desafios\DesafioFinal\BibliotecaSistema\obj\Debug\net8.0\ref\BibliotecaSistema.dll
